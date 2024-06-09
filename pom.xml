@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.pratique.devoir</groupId>
-    <artifactId>devoir_V2</artifactId>
+    <artifactId>devoir_V3</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>devoir_V2</name>
     <packaging>war</packaging>
